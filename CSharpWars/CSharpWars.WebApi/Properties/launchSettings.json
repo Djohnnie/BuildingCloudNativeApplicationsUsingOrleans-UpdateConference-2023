@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "CSharpWars.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AZURE_STORAGE_CONNECTION_STRING": "UseDevelopmentStorage=true"
+      },
+      "applicationUrl": "https://localhost:54173;http://localhost:54175"
+    }
+  }
+}

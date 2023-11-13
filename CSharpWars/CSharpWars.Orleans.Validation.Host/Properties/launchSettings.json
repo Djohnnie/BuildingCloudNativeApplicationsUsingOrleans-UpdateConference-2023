@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpWars.Orleans.Validation.Host": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_STORAGE_CONNECTION_STRING": "UseDevelopmentStorage=true"
+      }
+    }
+  }
+}
